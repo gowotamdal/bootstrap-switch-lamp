@@ -1,7 +1,28 @@
 *,
 
 body {
-background-image: url(assets/image/home.jpg);
+background-image: url();
 background-repeat: no-repeat;
 background-size:40cm;
+}
+
+.ul-allrooms {
+
+
+}
+
+.container-livingroom { 
+background-color: aqua;
+
+}
+
+.li-livingroom {
+    height: 30vh;
+    width: 30vh;
+background-color: aliceblue;
+}
+
+.livingroom {
+    color: aquamarine;
+
 }
